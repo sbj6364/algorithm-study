@@ -1,2 +1,2 @@
 # Algorithm Study
-Based on C / python
+> Based on C / python
